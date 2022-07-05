@@ -1,43 +1,25 @@
-## Hi, this is Sourish, welcome to my portfolio.
+## Hi, this is Sourish :),
 
-Here you go
+Following is my motion design portfolio:
 
-###Video 1:
-Video 1: [Pujarabh Explainer](https://drive.google.com/file/d/1TZTCgWkSa73CFJd2QeixCeGAdN8dCXJ0/view?usp=sharing)
+**Video 1:** [Airlearn Explainer](https://drive.google.com/file/d/1TZTCgWkSa73CFJd2QeixCeGAdN8dCXJ0/view?usp=sharing)
+
+**Video 2:** [PharmEasy One Explainer](https://drive.google.com/file/d/1LRBn-8GSxeX0NmxvfXDc2GGccKVe3OKH/view?usp=sharing)
+
+**Video 3:** [Livingcrew Explainer](https://drive.google.com/file/d/1qk-CCeWLdofmifL1vxCeN-OzZ3jXvHqF/view?usp=sharing)
+
+**Video 4:** [MetaWaferse Game Teaser](https://drive.google.com/file/d/1vU_M4yO0U4S7dt49vI_qKCfVUv-0FZqx/view?usp=sharing)
+
+**Video 5:** [Instagram Story/Reel](https://drive.google.com/file/d/18lWJ7C8lINjqd907fCec-tTg2XGhTnzI/view?usp=sharing)
+
+**Video 6:** [Voso Amazon Easy Ad](https://drive.google.com/file/d/18lWJ7C8lINjqd907fCec-tTg2XGhTnzI/view?usp=sharing)
+
+Thanks for the visit, have a great day.
+
+Cheers!
+
+Sourish
 
 
-You can use the [editor on GitHub](https://github.com/justsourish/justsourish.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justsourish/justsourish.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
