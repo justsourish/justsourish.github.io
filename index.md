@@ -1,6 +1,6 @@
 ## Hi, this is Sourish :),
 
-Following is my motion design portfolio:
+Following are some of my motion design work:
 
 **Video 1:** [Airlearn Explainer](https://drive.google.com/file/d/1TZTCgWkSa73CFJd2QeixCeGAdN8dCXJ0/view?usp=sharing)
 
